@@ -6,6 +6,7 @@
 	"author": "Daniyar Bashenov",
 	"description": "A project that I do for free code camp courses",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
