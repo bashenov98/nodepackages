@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"author": "Daniyar Bashenov",
+	"description": "A project that I do for free code camp courses",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
@@ -12,4 +13,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+
 }
