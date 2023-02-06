@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"version": "1.0.0",
 	"author": "Daniyar Bashenov",
 	"description": "A project that I do for free code camp courses",
 	"keywords": [ "freecodecamp", "microservice", "guide" ],
